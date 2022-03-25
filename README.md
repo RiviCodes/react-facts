@@ -1,6 +1,6 @@
 # React Facts App ⚛️
 
-[Live on Netlify 🚀](https://react-facts-rivicodes.netlify.app/)
+### [Live on Netlify 🚀](https://react-facts-rivicodes.netlify.app/)
 
 _Single Page Application aimed to test infividual components and deployment (on Netlify)._
 
