@@ -8,6 +8,8 @@ _Single Page Application aimed to test infividual components and deployment (on 
 
 A modern browser. May fail to load correctly if used in unsupported/old web browsers (i.e Internet Explorer)
 
+### Built with 🛠️
+
 * HTML5
 * CSS
 * JavaScript
